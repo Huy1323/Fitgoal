@@ -1,0 +1,211 @@
+weight,height,age,gender,activity_level,status
+50,160,22,Male,Sedentary,Normal weight
+68,175,30,Male,Light activity,Normal weight
+85,180,45,Female,Moderate activity,Overweight
+100,170,35,Male,Light activity,Obese
+55,155,28,Male,Sedentary,Normal weight
+90,165,40,Male,Sedentary,Obese
+78,180,32,Female,Moderate activity,Normal weight
+60,165,27,Male,Moderate activity,Normal weight
+72,175,50,Male,High activity,Normal weight
+95,168,29,Male,Sedentary,Obese
+106.6,162,46,Male,Sedentary,Obese
+82.9,165,28,Female,Moderate activity,Obese
+104,159,46,Male,High activity,Obese
+75.8,171,64,Male,Light activity,Overweight
+66.9,160,21,Female,Light activity,Overweight
+51.7,185,40,Female,High activity,Underweight
+104.2,159,53,Female,Moderate activity,Obese
+88.4,164,39,Female,Sedentary,Obese
+64.6,162,35,Male,High activity,Normal weight
+111,175,57,Male,Moderate activity,Obese
+90.2,196,20,Male,Very high activity,Normal weight
+45.3,179,46,Male,Very high activity,Underweight
+106.3,197,49,Male,Very high activity,Overweight
+112.7,197,43,Male,Light activity,Overweight
+106.8,170,61,Male,Sedentary,Obese
+104.3,154,58,Female,Light activity,Obese
+72.9,168,31,Male,Moderate activity,Overweight
+77,150,26,Male,Very high activity,Obese
+45.2,171,60,Female,Sedentary,Underweight
+58.8,193,28,Male,Sedentary,Underweight
+108.2,187,20,Male,Light activity,Obese
+57.7,199,64,Female,Moderate activity,Underweight
+58,165,18,Male,Light activity,Normal weight
+79.1,179,59,Female,Moderate activity,Normal weight
+76.3,192,57,Female,Very high activity,Normal weight
+108.6,151,43,Female,Light activity,Obese
+70.7,177,51,Male,High activity,Normal weight
+85.9,181,21,Female,Sedentary,Overweight
+65.9,161,43,Female,Very high activity,Overweight
+80.7,152,35,Female,Sedentary,Obese
+98.6,152,31,Female,Very high activity,Obese
+91.9,166,23,Male,Very high activity,Obese
+89,167,48,Female,High activity,Obese
+47.6,170,53,Female,Moderate activity,Underweight
+62,200,22,Male,Very high activity,Underweight
+113.3,154,59,Male,High activity,Obese
+49.4,180,62,Female,Light activity,Underweight
+96.6,150,47,Male,High activity,Obese
+94.7,192,55,Female,Sedentary,Overweight
+64.8,155,20,Male,Moderate activity,Overweight
+76.4,158,38,Male,Very high activity,Obese
+106.1,185,23,Male,High activity,Obese
+105.1,163,37,Male,Sedentary,Obese
+91.3,175,42,Female,High activity,Overweight
+115.2,155,36,Male,Light activity,Obese
+62.3,182,24,Male,Very high activity,Normal weight
+113,159,39,Male,Very high activity,Obese
+58.1,166,24,Male,Moderate activity,Normal weight
+82.7,152,35,Male,Moderate activity,Obese
+66.9,193,21,Male,Very high activity,Underweight
+87,160,38,Male,Very high activity,Obese
+104.8,151,64,Male,Light activity,Obese
+48.6,196,29,Male,Light activity,Underweight
+99.3,199,30,Female,Moderate activity,Overweight
+119.2,154,53,Female,High activity,Obese
+118.1,182,61,Female,Sedentary,Obese
+106.3,178,53,Male,Moderate activity,Obese
+75.4,165,31,Male,Very high activity,Overweight
+119.2,171,54,Male,Light activity,Obese
+71.4,189,29,Male,Moderate activity,Normal weight
+113.5,195,47,Male,Light activity,Overweight
+86.7,200,49,Male,Sedentary,Normal weight
+104.4,163,60,Female,Very high activity,Obese
+54.6,199,41,Female,Light activity,Underweight
+115.6,199,18,Male,High activity,Overweight
+75.3,193,46,Female,Light activity,Normal weight
+53.6,183,40,Male,Moderate activity,Underweight
+103.1,186,55,Female,Sedentary,Overweight
+89.1,166,32,Male,Very high activity,Obese
+76.4,171,42,Male,Light activity,Overweight
+60.7,152,35,Female,Light activity,Overweight
+88.7,177,27,Male,Sedentary,Overweight
+98.2,179,27,Female,Very high activity,Obese
+59.1,176,19,Female,Very high activity,Normal weight
+118.8,161,40,Male,Light activity,Obese
+69.3,193,50,Male,Very high activity,Normal weight
+52.5,171,50,Male,Very high activity,Underweight
+68.3,170,61,Female,Very high activity,Normal weight
+50.7,172,28,Male,Sedentary,Underweight
+45.7,165,23,Female,High activity,Underweight
+76.9,154,25,Female,Very high activity,Obese
+58.2,197,25,Female,Light activity,Underweight
+99.3,179,59,Male,High activity,Obese
+98.9,153,28,Male,High activity,Obese
+85.6,156,53,Male,Sedentary,Obese
+111.9,195,61,Female,Light activity,Overweight
+59.2,191,53,Male,High activity,Underweight
+68,190,60,Female,Moderate activity,Normal weight
+87.5,181,22,Female,Moderate activity,Overweight
+73.3,189,63,Female,High activity,Normal weight
+70.9,183,26,Male,Very high activity,Normal weight
+108.2,184,49,Female,Light activity,Obese
+67.5,166,20,Female,High activity,Normal weight
+104.8,154,65,Female,Sedentary,Obese
+52.1,182,22,Female,Sedentary,Underweight
+89.5,180,28,Female,High activity,Overweight
+50.8,200,64,Male,Light activity,Underweight
+70.7,162,44,Female,Very high activity,Overweight
+109.5,182,41,Male,Very high activity,Obese
+45.5,152,59,Male,High activity,Normal weight
+58.6,187,26,Male,Sedentary,Underweight
+94.7,173,36,Female,High activity,Obese
+114.1,163,52,Female,Light activity,Obese
+108.1,193,23,Female,High activity,Overweight
+64.1,179,19,Female,Sedentary,Normal weight
+64.8,176,57,Male,High activity,Normal weight
+101.6,186,45,Female,Moderate activity,Overweight
+110.6,165,55,Female,Light activity,Obese
+46.7,155,47,Male,High activity,Normal weight
+88.9,193,41,Male,Very high activity,Normal weight
+97,154,24,Male,Light activity,Obese
+116.9,171,34,Male,Sedentary,Obese
+65.7,186,33,Female,High activity,Normal weight
+115.9,160,25,Male,Sedentary,Obese
+111.2,157,40,Male,High activity,Obese
+63,153,53,Female,Light activity,Overweight
+114.5,182,58,Female,Sedentary,Obese
+56.2,198,62,Female,Very high activity,Underweight
+61.8,185,40,Male,Very high activity,Underweight
+101.6,160,50,Female,Very high activity,Obese
+51.8,191,61,Male,Light activity,Underweight
+107.1,156,19,Male,High activity,Obese
+46.8,164,38,Male,Sedentary,Underweight
+81.1,196,33,Male,Light activity,Normal weight
+67.7,167,53,Female,Light activity,Normal weight
+45.1,175,42,Female,Sedentary,Underweight
+49.7,169,35,Female,Light activity,Underweight
+112.3,168,47,Male,Light activity,Obese
+50.8,198,40,Male,High activity,Underweight
+46.8,192,40,Male,Light activity,Underweight
+95.6,178,43,Female,Sedentary,Obese
+70.8,167,53,Male,Light activity,Overweight
+72.3,193,54,Male,Very high activity,Normal weight
+51.8,151,21,Male,High activity,Normal weight
+98.1,181,36,Male,Very high activity,Obese
+73.1,192,18,Female,Sedentary,Normal weight
+56.2,199,24,Female,High activity,Underweight
+48.5,164,24,Male,Light activity,Underweight
+89.6,173,22,Male,Sedentary,Obese
+54.8,159,30,Female,Sedentary,Normal weight
+88.8,166,33,Female,Very high activity,Obese
+95.2,164,25,Male,Moderate activity,Obese
+53.1,152,42,Female,High activity,Normal weight
+100.2,171,63,Male,High activity,Obese
+76.4,152,65,Male,Light activity,Obese
+114.1,183,58,Female,Very high activity,Obese
+108.7,189,26,Male,Sedentary,Obese
+104.8,184,52,Male,Moderate activity,Obese
+52.1,175,54,Female,High activity,Underweight
+48.6,200,32,Female,High activity,Underweight
+59.6,190,25,Male,Very high activity,Underweight
+106.4,186,24,Male,Very high activity,Obese
+86.8,151,33,Male,Moderate activity,Obese
+69.3,169,50,Male,High activity,Normal weight
+75.3,191,60,Male,Very high activity,Normal weight
+69.1,156,22,Female,Light activity,Overweight
+65.8,166,55,Male,Moderate activity,Normal weight
+118.2,164,19,Male,Moderate activity,Obese
+98.9,193,37,Male,Very high activity,Overweight
+113.9,163,34,Male,Light activity,Obese
+47.9,168,64,Female,Light activity,Underweight
+85.1,172,30,Female,High activity,Overweight
+58.5,181,65,Male,Light activity,Underweight
+106.5,155,40,Female,High activity,Obese
+118.3,200,46,Female,Moderate activity,Overweight
+86.6,159,58,Female,Very high activity,Obese
+52.9,198,56,Female,Very high activity,Underweight
+111.6,163,64,Female,Moderate activity,Obese
+61.9,166,57,Female,Very high activity,Normal weight
+64.9,190,45,Male,Moderate activity,Underweight
+77.3,167,23,Female,Sedentary,Overweight
+98.8,195,24,Male,Sedentary,Overweight
+62.3,182,63,Female,Sedentary,Normal weight
+95.8,182,21,Male,Very high activity,Overweight
+108.6,176,46,Female,Sedentary,Obese
+53.1,176,37,Male,Very high activity,Underweight
+75.4,178,19,Female,Very high activity,Normal weight
+97.9,176,33,Female,Moderate activity,Obese
+72.5,196,19,Male,Light activity,Normal weight
+106.3,175,30,Female,Sedentary,Obese
+111.6,174,52,Female,Light activity,Obese
+103,163,63,Female,Very high activity,Obese
+114.1,180,23,Female,High activity,Obese
+86.2,184,37,Male,Very high activity,Overweight
+68.4,159,18,Female,High activity,Overweight
+62.3,198,60,Male,Light activity,Underweight
+92,158,35,Male,Sedentary,Obese
+80.3,188,36,Female,Very high activity,Normal weight
+101.2,175,38,Male,Moderate activity,Obese
+45.5,193,47,Male,Sedentary,Underweight
+114.7,174,25,Male,Moderate activity,Obese
+69.5,185,43,Male,Light activity,Normal weight
+87.7,189,34,Male,High activity,Normal weight
+77,196,22,Female,Moderate activity,Normal weight
+86,166,41,Female,Moderate activity,Obese
+73.1,173,30,Male,Sedentary,Normal weight
+104.4,194,58,Male,Sedentary,Overweight
+111.3,200,18,Male,Very high activity,Overweight
+101.9,195,56,Male,Light activity,Overweight
+104.5,182,38,Male,Moderate activity,Obese

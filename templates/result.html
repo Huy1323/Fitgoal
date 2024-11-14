@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/css/result.css">
+    <title>Health Prediction Result</title>
+</head>
+<body>
+    <h1>Kết quả</h1>
+    <p><strong>BMI:</strong> {{ result.bmi }}</p>
+    <p><strong>BMR:</strong> {{ result.bmr }} kcal/day</p>
+    <p><strong>TDEE:</strong> {{ result.tdee }} kcal/day</p>
+    <p><strong>Lời Khuyên:</strong> {{ result.advice }}</p>
+    <a href="{{ url_for('index') }}">Quay trở lại trang tính</a>
+</body>
+</html>

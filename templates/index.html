@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Health Predictor</title>
+    <link rel="stylesheet" href="static\css\styles.css">
+</head>
+<body>
+    <h1>Hãy nhập thông tin của bạn</h1>
+    <form action="/" method="post">
+        <div class="main">
+        <label for="weight">Cân nặng (kg):</label>
+        <input type="text" name="weight" required><br>
+
+        <label for="height">Chiều cao (cm):</label>
+        <input type="text" name="height" required><br>
+
+        <label for="age">Tuổi:</label>
+        <input type="text" name="age" required><br>
+
+        <label for="gender">Giới tính:</label>
+        <select name="gender" required>
+            <option value="Male">Nam</option>
+            <option value="Female">Nữ</option>
+        </select><br>
+
+        <label for="activity_level">Mức độ hoạt động:</label>
+        <select name="activity_level" required>
+            <option value="Sedentary">Không vận động</option>
+            <option value="Light activity">Vận động nhẹ (1-3 ngày/1 tuần)</option>
+            <option value="Moderate activity">Vận động vừa phải (3-5 ngày/1 tuần)</option>
+            <option value="High activity">Vận động Nhiều (6-7 ngày/1 tuần)</option>
+            <option value="Very high activity">Vận động rất nhiều (vượt ngưỡng 1 tuần)</option>
+        </select><br>
+
+        <button type="submit">Tính Toán</button>
+        </div>
+    </form>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <ul>
+                {% for category, message in messages %}
+                    <li class="{{ category }}">{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+</body>
+</html>
